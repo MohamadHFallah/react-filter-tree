@@ -3,7 +3,7 @@ In this post, we are supposed to teach a filtered tree-component with the help o
 React and Material-ui.
 
 You can learn more in
-https://medium.com/
+https://mohammad-hassan-fallah.medium.com/react-tree-component-with-filter-f1d052c5d11d
 
 
 ### Getting Started 
