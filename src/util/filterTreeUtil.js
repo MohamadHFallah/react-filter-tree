@@ -84,7 +84,7 @@ export const getIDsExpandFilter = (node) => {
     store = ['root'];
   }
   if (children) {
-    store.push(children[0].id);
+    children.map((child) => store.push(child.id));
   }
   node.children.map((child) => getIDsExpandFilter(child));
   return store;
